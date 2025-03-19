@@ -4,6 +4,9 @@
 A Chatting app created using React Native.
 Implemented using WebSocket you can create/join any chat room.
 
+## Video link
+
+Here's the demo & code explanation [Youtube video link](https://youtu.be/3HFOK8RHmF8)
 ## Authors
 
 - [@Jishant](https://github.com/jishant-AKA-jk)
